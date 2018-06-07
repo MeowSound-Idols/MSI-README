@@ -1,0 +1,15 @@
+{
+  "name": "msi-readme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack-cli --config ./build/webpack.config.js",
+    "watch": "webpack-cli --config ./build/webpack.config.js --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,13 @@
+#main-title {
+    font-size: 10vh;
+    line-height: 8vh;
+}
+#sub-title {
+    font-size: 3vh;
+    line-height: 80%;
+    color: #aaa;
+}
+#member-introduction-container {
+    display: flex;
+    padding: 2rem;
+}
